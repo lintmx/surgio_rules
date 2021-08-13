@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,bit.ly,{{ proxy_rule }}
 DOMAIN-KEYWORD,github.io,{{ proxy_rule }}
 DOMAIN-KEYWORD,share.dmhy.org,{{ proxy_rule }}
+DOMAIN-KEYWORD,nyaa.si,{{ proxy_rule }}
 DOMAIN-SUFFIX,playstation.com,{{ proxy_rule }}
 DOMAIN-SUFFIX,pixiv.net,{{ proxy_rule }}
 DOMAIN-SUFFIX,pximg.net,{{ proxy_rule }}
