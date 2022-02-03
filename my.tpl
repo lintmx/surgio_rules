@@ -11,5 +11,6 @@ DOMAIN-SUFFIX,v2ex.com,{{ proxy_rule }}
 DOMAIN-SUFFIX,v2ex.co,{{ proxy_rule }}
 DOMAIN-SUFFIX,exhentai.org,{{ proxy_rule }}
 DOMAIN-SUFFIX,e-hentai.org,{{ proxy_rule }}
+DOMAIN-SUFFIX,twimg.com,{{ proxy_rule }}
 
 {% endmacro %}
