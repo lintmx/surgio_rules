@@ -14,5 +14,6 @@ DOMAIN-SUFFIX,exhentai.org,{{ proxy_rule }}
 DOMAIN-SUFFIX,e-hentai.org,{{ proxy_rule }}
 DOMAIN-SUFFIX,twimg.com,{{ proxy_rule }}
 DOMAIN-SUFFIX,mikanani.me,{{ proxy_rule }}
+DOMAIN-SUFFIX,t.me,{{ proxy_rule }}
 
 {% endmacro %}
