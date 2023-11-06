@@ -15,5 +15,6 @@ DOMAIN-SUFFIX,e-hentai.org,{{ proxy_rule }}
 DOMAIN-SUFFIX,twimg.com,{{ proxy_rule }}
 DOMAIN-SUFFIX,mikanani.me,{{ proxy_rule }}
 DOMAIN-SUFFIX,t.me,{{ proxy_rule }}
+DOMAIN-SUFFIX,magibot.one,{{ direct_rule }}
 
 {% endmacro %}
