@@ -17,5 +17,6 @@ DOMAIN-SUFFIX,mikanani.me,{{ proxy_rule }}
 DOMAIN-SUFFIX,t.me,{{ proxy_rule }}
 DOMAIN-SUFFIX,magibot.one,{{ direct_rule }}
 DOMAIN-SUFFIX,t.co,{{ proxy_rule }}
+DOMAIN-SUFFIX,bgm.tv,{{ proxy_rule }}
 
 {% endmacro %}
