@@ -18,5 +18,6 @@ DOMAIN-SUFFIX,t.me,{{ proxy_rule }}
 DOMAIN-SUFFIX,magibot.one,{{ direct_rule }}
 DOMAIN-SUFFIX,t.co,{{ proxy_rule }}
 DOMAIN-SUFFIX,bgm.tv,{{ proxy_rule }}
+DOMAIN-SUFFIX,docker.io,{{ proxy_rule }}
 
 {% endmacro %}
